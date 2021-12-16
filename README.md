@@ -1,8 +1,8 @@
 # UK-Bank-Customers
 
 Business Questions:
-1. What is the number of customers by gender and region.
-2. What is the median age of customers by gender and region.
+1. What is the number of customers by gender and region?
+2. What is the median age of customers by gender and region?
 
 The company wanted a clear dashboard to get a summary of the information in the data. 
 
